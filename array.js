@@ -7,3 +7,4 @@ var heroines = ['karina', 'katrina', 'kiara', 'Divyanka'];
 var vowels = ['a', 'e', 'i', 'o', 'u'];
 
 console.log(heroines);
+console.log(vowels.length);
